@@ -1,0 +1,21 @@
+{
+  "name": "webcam-in-terminal",
+  "version": "1.1.1",
+  "description": "Display your webcam in terminal 😝",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [
+    "terminal",
+    "image",
+    "webcam",
+    "just4fun"
+  ],
+  "author": "mscholz.dev",
+  "license": "MIT",
+  "dependencies": {
+    "image-to-ascii": "^3.0.13",
+    "node-webcam": "^0.8.0",
+    "terminal-image": "^2.0.0"
+  }
+}
