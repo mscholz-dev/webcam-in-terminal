@@ -15,7 +15,7 @@ Every time your display your webcam in terminal and create a directory with all 
 
 ⚠️ You need `imagesnap` installed before
 
-- **Windows** → [in testing]
+- **Windows** → OK
 - **MacOS** → brew install imagesnap
 - **Linux** → sudo apt-get install fswebcam
 
@@ -102,7 +102,7 @@ If you have a problem, please contact me at: mscholz.dev@gmail.com
 
 ⚠️ Vous devez avoir `imagesnap` installé avant
 
-- **Windows** → [in testing]
+- **Windows** → OK
 - **MacOS** → brew install imagesnap
 - **Linux** → sudo apt-get install fswebcam
 
