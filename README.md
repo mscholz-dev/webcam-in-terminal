@@ -3,6 +3,8 @@
 - [English](#english)
 - [Français](#french)
 
+<br/>
+
 # <a id="english">🇬🇧 Display your webcam in terminal 😝</a>
 
 Every time your display your webcam in terminal and create a directory with all displayed pictures
@@ -10,8 +12,6 @@ Every time your display your webcam in terminal and create a directory with all 
 <br>
 
 ## Installation
-
----
 
 ⚠️ You need `GraphicsMagick` installed before
 
@@ -22,8 +22,6 @@ $ npm i webcam-in-terminal
 <br>
 
 ## Usages
-
----
 
 ### Display webcam in terminal
 
@@ -70,6 +68,13 @@ deleteDirectories("my-records-");
 ```
 
 Delete all directories who contains `my-records-`
+
+<br>
+
+## Issues
+
+If you have a problem, please contact me at: mscholz.dev@gmail.com
+
 <br>
 <br>
 <br>
@@ -89,8 +94,6 @@ Delete all directories who contains `my-records-`
 
 ## Installation
 
----
-
 ⚠️ Vous devez avoir `GraphicsMagick` installé avant
 
 ```
@@ -100,8 +103,6 @@ $ npm i webcam-in-terminal
 <br>
 
 ## Usages
-
----
 
 ### Afficher la webcam dans le terminal
 
@@ -148,3 +149,9 @@ deleteDirectories("my-records-");
 ```
 
 Efface tous les dossiers qui contiennent `my-records-`
+
+<br/>
+
+## Problèmes
+
+En cas de problème, merci de me contacter sur: mscholz.dev@gmail.com

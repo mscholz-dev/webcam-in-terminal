@@ -1,6 +1,6 @@
 {
   "name": "webcam-in-terminal",
-  "version": "1.1.1",
+  "version": "1.1.5",
   "description": "Display your webcam in terminal 😝",
   "main": "index.js",
   "type": "module",
@@ -9,7 +9,10 @@
     "terminal",
     "image",
     "webcam",
-    "just4fun"
+    "just4fun",
+    "javascript",
+    "nodejs",
+    "opensource"
   ],
   "author": "mscholz.dev",
   "license": "MIT",
@@ -17,5 +20,13 @@
     "image-to-ascii": "^3.0.13",
     "node-webcam": "^0.8.0",
     "terminal-image": "^2.0.0"
-  }
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/mscholz-dev/webcam-in-terminal"
+  },
+  "homepage": "https://github.com/mscholz-dev/webcam-in-terminal",
+  "os": [
+    "linux"
+  ]
 }
